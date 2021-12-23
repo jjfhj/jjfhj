@@ -1,16 +1,13 @@
-### Hi there 👋
+<p align="center">
+    <img src="attachments/gif/header.gif">
+    <img width="15%" src="attachments/images/bee.png">
+</p>
 
-<!--
-**jjfhj/jjfhj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <img width="10%" src="attachments/images/chat.png"> Обо мне
 
-Here are some ideas to get you started:
+### Я — QA Engineer <img width="5%" src="attachments/images/bug.png">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Имею более 2-х лет опыта в тестировании web-приложений и обеспечении качества.
+
+В данное время активно изучаю <code>Java</code> и прохожу курс по автоматизированному тестированию
+от [QA.GURU](https://qa.guru/). Планирую развиваться в направлении **QA Automation Engineer**.
