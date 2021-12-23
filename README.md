@@ -1,6 +1,6 @@
 <p align="center">
     <img title="Hello" src="attachments/gif/header.gif">
-    <img width="10%" title="Hi" src="attachments/images/bee.png">
+    <img width="12%" title="Hi" src="attachments/images/bee.png">
 </p>
 
 # <img width="5%" title="About me" src="attachments/images/chat.png"> Обо мне
