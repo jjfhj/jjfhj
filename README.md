@@ -39,9 +39,9 @@
 <img title="Jira" src="https://img.shields.io/badge/-Jira-7e06ff?logo=jira&style=for-the-badge">
 </p>
 
-<p>
+<p align="center">
   <img width=45% title="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jjfhj&show_icons=true&theme=buefy">
-  <img width=43% title="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjfhj&theme=buefy">
+  <img width=42.5% title="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjfhj&theme=buefy">
 </p>
 
 <p align="center">
