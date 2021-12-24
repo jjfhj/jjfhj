@@ -1,13 +1,13 @@
 <p align="center">
     <img title="Hello!" src="attachments/gif/header.gif">
-    <img width="12%" title="Hi" src="attachments/images/bee.png">
+    <img width="12%" src="attachments/images/bee.png">
 </p>
 
 # <img width="5%" title="About me" src="attachments/images/chat.png"> Обо мне
 
-<img align="right" width="35%" title="Work" src="attachments/gif/animation.gif">
+<img align="right" width="35%" src="attachments/gif/animation.gif">
 
-### _Я — QA Engineer_ <img width="3%" title="Bug" src="attachments/images/bug.png">
+### _Я — QA Engineer_ <img width="3%" src="attachments/images/bug.png">
 
 <p align="left">
 Имею более 2-х лет опыта в тестировании web-приложений и обеспечении качества.
@@ -48,7 +48,7 @@
 <p align="center">
     <img width=45% title="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jjfhj&show_icons=true&theme=buefy">
     <img width=42.5% title="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjfhj&theme=buefy">
-    <img width="30%" title="Graph" src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif">
+    <img width="30%" src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif">
     <img width=57% title="Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=jjfhj&show_icons=true&theme=buefy">
 </p>
 
@@ -73,5 +73,5 @@
 </p>
 
 <p align="center">
-  <img title="The waves" src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
 </p>
