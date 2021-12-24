@@ -55,17 +55,9 @@
 ## <img width="4%" title="Contacts" src="attachments/images/contacts.png"> Контакты
 
 <p>
-  <a href="https://t.me/jjfhj1"><img width=5% title="Telegram" src="attachments/logo/1532545.png"></a>
-  <a href="https://linkedin.com/in/jjfhj"><img width=6% title="LinkedIn" src="attachments/logo/linkedin.png"></a>
-  <a href="https://career.habr.com/jjfhj"><img width=6% title="Habr Career" src="attachments/logo/habr.svg"></a>
-</p>
-
-## <img width="4%" title="Contacts" src="attachments/images/contacts.png"> Контакты
-
-<p>
-  <a href="https://t.me/jjfhj1"><img width=5% title="Telegram" src="attachments/logo/1391058.png"></a>
-  <a href="https://linkedin.com/in/jjfhj"><img width=6% title="LinkedIn" src="attachments/logo/linkedin.png"></a>
-  <a href="https://career.habr.com/jjfhj"><img width=6% title="Habr Career" src="attachments/logo/habr.svg"></a>
+  <a href="https://t.me/jjfhj1"><img width=4% title="Telegram" src="attachments/logo/telegram.png"></a>
+  <a href="https://linkedin.com/in/jjfhj"><img width=5% title="LinkedIn" src="attachments/logo/linkedin.png"></a>
+  <a href="https://career.habr.com/jjfhj"><img width=5% title="Habr Career" src="attachments/logo/habr.svg"></a>
 </p>
 
 <p align="center">
