@@ -16,6 +16,8 @@
 [**QA.GURU**](https://qa.guru/). Планирую развиваться в направлении **QA Automation**.
 </p>
 
+<br/>
+
 ## <img width="4%" title="My projects" src="attachments/images/browser.png"> Мои проекты
 
 <p>
@@ -25,6 +27,8 @@
 <p align="right">
   <a href="https://github.com/jjfhj?tab=repositories&sort=stargazers"><img width="170" title="All repositories" src="https://custom-icon-badges.herokuapp.com/badge/-Все%20репозитории-ba79ff?style=for-the-badge&logoColor=white&logo=repo"></a>
 </p>
+
+<br/>
 
 ## <img width="4%" title="Technology stack" src="attachments/images/tools.png"> Стек технологий
 
@@ -43,6 +47,8 @@
 <img title="Jira" src="https://img.shields.io/badge/-Jira-7e06ff?logo=jira&style=for-the-badge">
 </p>
 
+<br/>
+
 ## <img width="4%" title="GitHub statistics" src="attachments/images/stats.png"> Статистика GitHub
 
 <p align="center">
@@ -51,6 +57,8 @@
     <img width="30%" src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif">
     <img width=57% title="Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=jjfhj&show_icons=true&theme=buefy">
 </p>
+
+<br/>
 
 ## <img width="4%" title="Contacts" src="attachments/images/contacts.png"> Контакты
 
