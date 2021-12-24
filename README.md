@@ -10,12 +10,12 @@
 Имею более 2-х лет опыта в тестировании web-приложений и обеспечении качества.
 
 В данное время активно изучаю <code>Java</code> и прохожу курс по автоматизированному тестированию
-от [**QA.GURU**](https://qa.guru/). Планирую развиваться в направлении **QA Automation Engineer**.
+от [**QA.GURU**](https://qa.guru/). Планирую развиваться в направлении **QA Automation**.
 
 ## <img width="4%" title="My projects" src="attachments/images/browser.png"> Мои проекты
 
 <p>
-  <a href="https://github.com/jjfhj/mvideo_project"><img title="Проект по автоматизации тестирования веб-приложения М.Видео" src="https://github-readme-stats.vercel.app/api/pin/?username=jjfhj&repo=mvideo_project&theme=buefy"></a>
+  <a href="https://github.com/jjfhj/mvideo_project"><img width=50% title="Проект по автоматизации тестирования веб-приложения М.Видео" src="https://github-readme-stats.vercel.app/api/pin/?username=jjfhj&repo=mvideo_project&show_owner=true&theme=buefy"></a>
 </p>
 
 <p align="right">
@@ -39,6 +39,11 @@
 <img title="Jira" src="https://img.shields.io/badge/-Jira-7e06ff?logo=jira&style=for-the-badge">
 </p>
 
+<p>
+  <img width=45% title="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jjfhj&show_icons=true&theme=buefy">
+  <img width=43% title="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjfhj&theme=buefy">
+</p>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=ba79ff&font=montserrat-medium&size=20&center=true&vCenter=true&lines=%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B5%D0%B3%D0%BE+%D0%B4%D0%BD%D1%8F!">
+  <img src="https://readme-typing-svg.herokuapp.com?color=ba79ff&font=montserrat-medium&size=20&center=true&vCenter=true&lines=%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B5%D0%B3%D0%BE+%D0%B4%D0%BD%D1%8F+:)">
 </p>
