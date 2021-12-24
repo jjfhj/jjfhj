@@ -1,21 +1,25 @@
 <p align="center">
-    <img title="Hello" src="attachments/gif/header.gif">
+    <img title="Hello!" src="attachments/gif/header.gif">
     <img width="12%" title="Hi" src="attachments/images/bee.png">
 </p>
 
 # <img width="5%" title="About me" src="attachments/images/chat.png"> Обо мне
 
+<img align="right" width="40%" title="Work" src="attachments/gif/animation.gif">
+
 ### _Я — QA Engineer_ <img width="3%" title="Bug" src="attachments/images/bug.png">
 
+<p align="left">
 Имею более 2-х лет опыта в тестировании web-приложений и обеспечении качества.
 
 В данное время активно изучаю <code>Java</code> и прохожу курс по автоматизированному тестированию
 от [**QA.GURU**](https://qa.guru/). Планирую развиваться в направлении **QA Automation**.
+</p>
 
 ## <img width="4%" title="My projects" src="attachments/images/browser.png"> Мои проекты
 
 <p>
-  <a href="https://github.com/jjfhj/mvideo_project"><img width=50% title="Проект по автоматизации тестирования веб-приложения М.Видео" src="https://github-readme-stats.vercel.app/api/pin/?username=jjfhj&repo=mvideo_project&show_owner=true&theme=buefy"></a>
+    <a href="https://github.com/jjfhj/mvideo_project"><img width=50% title="Проект по автоматизации тестирования веб-приложения М.Видео" src="https://github-readme-stats.vercel.app/api/pin/?username=jjfhj&repo=mvideo_project&show_owner=true&theme=buefy"></a>
 </p>
 
 <p align="right">
@@ -42,8 +46,9 @@
 ## <img width="4%" title="GitHub statistics" src="attachments/images/stats.png"> Статистика GitHub 
 
 <p align="center">
-  <img width=45% title="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jjfhj&show_icons=true&theme=buefy">
-  <img width=42.5% title="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjfhj&theme=buefy">
+    <img width=45% title="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jjfhj&show_icons=true&theme=buefy">
+    <img width=42.5% title="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjfhj&theme=buefy"> 
+    <img width=55% title="Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=jjfhj&show_icons=true&theme=buefy">
 </p>
 
 ## <img width="4%" title="Contacts" src="attachments/images/contacts.png"> Контакты
@@ -51,7 +56,7 @@
 <p>
   <a href="https://t.me/jjfhj1"><img width=5% title="Telegram" src="attachments/logo/1532545.png"></a>
   <a href="https://linkedin.com/in/jjfhj"><img width=6% title="LinkedIn" src="attachments/logo/linkedin.png"></a>
-  <a href="https://career.habr.com/jjfhj"><img width=6% title="Habr Career" src="attachments/logo/habr.png"></a>
+  <a href="https://career.habr.com/jjfhj"><img width=6% title="Habr Career" src="attachments/logo/habr.svg"></a>
 </p>
 
 ## <img width="4%" title="Contacts" src="attachments/images/contacts.png"> Контакты
@@ -59,9 +64,13 @@
 <p>
   <a href="https://t.me/jjfhj1"><img width=5% title="Telegram" src="attachments/logo/1391058.png"></a>
   <a href="https://linkedin.com/in/jjfhj"><img width=6% title="LinkedIn" src="attachments/logo/linkedin.png"></a>
-  <a href="https://career.habr.com/jjfhj"><img width=6% title="Habr Career" src="attachments/logo/habr.png"></a>
+  <a href="https://career.habr.com/jjfhj"><img width=6% title="Habr Career" src="attachments/logo/habr.svg"></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=ba79ff&font=montserrat-medium&size=20&center=true&vCenter=true&lines=%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B5%D0%B3%D0%BE+%D0%B4%D0%BD%D1%8F+:)">
+  <img title="Have a good day :)" src="https://readme-typing-svg.herokuapp.com?color=ba79ff&font=montserrat-medium&size=20&center=true&vCenter=true&lines=%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B5%D0%B3%D0%BE+%D0%B4%D0%BD%D1%8F+:)">
+</p>
+
+<p align="center">
+  <img title="The waves" src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
 </p>
