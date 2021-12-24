@@ -46,6 +46,22 @@
   <img width=42.5% title="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjfhj&theme=buefy">
 </p>
 
+## <img width="4%" title="Contacts" src="attachments/images/contacts.png"> Контакты
+
+<p>
+  <a href="https://t.me/jjfhj1"><img width=5% title="Telegram" src="attachments/logo/1532545.png"></a>
+  <a href="https://linkedin.com/in/jjfhj"><img width=6% title="LinkedIn" src="attachments/logo/linkedin.png"></a>
+  <a href="https://career.habr.com/jjfhj"><img width=6% title="Habr Career" src="attachments/logo/habr.png"></a>
+</p>
+
+## <img width="4%" title="Contacts" src="attachments/images/contacts.png"> Контакты
+
+<p>
+  <a href="https://t.me/jjfhj1"><img width=5% title="Telegram" src="attachments/logo/1391058.png"></a>
+  <a href="https://linkedin.com/in/jjfhj"><img width=6% title="LinkedIn" src="attachments/logo/linkedin.png"></a>
+  <a href="https://career.habr.com/jjfhj"><img width=6% title="Habr Career" src="attachments/logo/habr.png"></a>
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=ba79ff&font=montserrat-medium&size=20&center=true&vCenter=true&lines=%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B5%D0%B3%D0%BE+%D0%B4%D0%BD%D1%8F+:)">
 </p>
