@@ -60,6 +60,8 @@
   <a href="https://career.habr.com/jjfhj"><img width=5% title="Habr Career" src="attachments/logo/habr.svg"></a>
 </p>
 
+<br/>
+
 <p align="center">
   <img title="Have a good day :)" src="https://readme-typing-svg.herokuapp.com?color=ba79ff&font=montserrat-medium&size=20&center=true&vCenter=true&lines=%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B5%D0%B3%D0%BE+%D0%B4%D0%BD%D1%8F+:)">
 </p>
