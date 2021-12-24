@@ -5,7 +5,7 @@
 
 # <img width="5%" title="About me" src="attachments/images/chat.png"> Обо мне
 
-<img align="right" width="40%" title="Work" src="attachments/gif/animation.gif">
+<img align="right" width="35%" title="Work" src="attachments/gif/animation.gif">
 
 ### _Я — QA Engineer_ <img width="3%" title="Bug" src="attachments/images/bug.png">
 
@@ -47,8 +47,9 @@
 
 <p align="center">
     <img width=45% title="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jjfhj&show_icons=true&theme=buefy">
-    <img width=42.5% title="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjfhj&theme=buefy"> 
-    <img width=55% title="Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=jjfhj&show_icons=true&theme=buefy">
+    <img width=42.5% title="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjfhj&theme=buefy">
+    <img width="30%" title="Graph" src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif">
+    <img width=57% title="Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=jjfhj&show_icons=true&theme=buefy">
 </p>
 
 ## <img width="4%" title="Contacts" src="attachments/images/contacts.png"> Контакты
