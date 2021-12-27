@@ -21,7 +21,7 @@
 ## <img width="4%" title="My projects" src="attachments/images/browser.png"> Мои проекты
 
 <p>
-    <a href="https://github.com/jjfhj/mvideo_project"><img width=50% title="Проект по автоматизации тестирования веб-приложения М.Видео" src="https://github-readme-stats.vercel.app/api/pin/?username=jjfhj&repo=mvideo_project&show_owner=true&theme=buefy"></a>
+    <a href="https://github.com/jjfhj/mvideo_project"><img width=50% title="Проект по автоматизации тестирования веб-приложения М.Видео (UI-тесты)" src="https://github-readme-stats.vercel.app/api/pin/?username=jjfhj&repo=mvideo_project&show_owner=true&theme=buefy"></a>
 </p>
 
 <p align="right">
