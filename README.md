@@ -41,8 +41,9 @@
 <img title="GitHub" src="https://img.shields.io/badge/-GitHub-7e06ff?logo=github&style=for-the-badge">
 <img title="Jenkins" src="https://img.shields.io/badge/-Jenkins-ffc933?logo=jenkins&style=for-the-badge">
 <img title="Allure TestOps" src="https://img.shields.io/badge/-Allure%20TestOps-7e06ff?style=for-the-badge">
-<img title="Telegram" src="https://img.shields.io/badge/-Telegram-ffc933?logo=telegram&style=for-the-badge">
-<img title="Jira" src="https://img.shields.io/badge/-Jira-7e06ff?logo=jira&style=for-the-badge">
+<img title="REST Assured" src="https://img.shields.io/badge/-REST%20Assured-ffc933?style=for-the-badge">
+<img title="Telegram" src="https://img.shields.io/badge/-Telegram-7e06ff?logo=telegram&style=for-the-badge">
+<img title="Jira" src="https://img.shields.io/badge/-Jira-ffc933?logo=jira&style=for-the-badge">
 </p>
 
 <br/>
