@@ -21,8 +21,8 @@
 ## <img width="4%" title="My projects" src="attachments/images/browser.png"> Мои проекты
 
 <p>
-    <a href="https://github.com/jjfhj/mvideo_project"><img width=50% title="Проект по автоматизации тестирования веб-приложения М.Видео (UI-тесты)" src="https://github-readme-stats.vercel.app/api/pin/?username=jjfhj&repo=mvideo_project&show_owner=true&theme=buefy"></a>
-    <a href="https://github.com/jjfhj/reqres_api_test"><img width=50% title="API-автотесты для Reqres" src="https://github-readme-stats.vercel.app/api/pin/?username=jjfhj&repo=reqres_api_test&show_owner=true&theme=buefy"></a>
+    <a href="https://github.com/jjfhj/mvideo_project"><img width=45% title="Проект по автоматизации тестирования веб-приложения М.Видео (UI-тесты)" src="https://github-readme-stats.vercel.app/api/pin/?username=jjfhj&repo=mvideo_project&show_owner=true&theme=buefy"></a>
+    <a href="https://github.com/jjfhj/reqres_api_test"><img width=45% title="API-автотесты для Reqres" src="https://github-readme-stats.vercel.app/api/pin/?username=jjfhj&repo=reqres_api_test&show_owner=true&theme=buefy"></a>
 </p>
 
 <p align="right">
