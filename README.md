@@ -22,7 +22,7 @@
 
 <p>
     <a href="https://github.com/jjfhj/mvideo_project"><img width=45% title="Проект по автоматизации тестирования веб-приложения М.Видео (UI-тесты)" src="https://github-readme-stats.vercel.app/api/pin/?username=jjfhj&repo=mvideo_project&show_owner=true&theme=buefy"></a>
-    <a href="https://github.com/jjfhj/reqres_api_test"><img width=48.5% title="API-автотесты для Reqres" src="https://github-readme-stats.vercel.app/api/pin/?username=jjfhj&repo=reqres_api_test&show_owner=true&theme=buefy"></a>
+    <a href="https://github.com/jjfhj/reqres_api_test"><img width=48.5% title="API-автотесты для Reqres с использованием библиотеки REST Assured" src="https://github-readme-stats.vercel.app/api/pin/?username=jjfhj&repo=reqres_api_test&show_owner=true&theme=buefy"></a>
 </p>
 
 <p align="right">
