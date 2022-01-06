@@ -21,8 +21,9 @@
 ## <img width="4%" title="My projects" src="attachments/images/browser.png"> Мои проекты
 
 <p>
-    <a href="https://github.com/jjfhj/mvideo_project"><img width=45% title="UI-автотесты для веб-приложения М.Видео с использованием фреймворка Selenide и Allure, Selenoid для запуска браузеров в контейнерах Docker и Jenkins для запуска тестов; интеграцией с Allure TestOps, Jira и Telegram Bot" src="https://github-readme-stats.vercel.app/api/pin/?username=jjfhj&repo=mvideo_project&show_owner=true&theme=buefy"></a>
+    <a href="https://github.com/jjfhj/mvideo_project"><img width=45% title="UI-автотесты для веб-приложения М.Видео с использованием фреймворков Selenide и Allure, Selenoid для запуска браузеров в контейнерах Docker и Jenkins для запуска тестов; интеграцией с Allure TestOps, Jira и Telegram Bot" src="https://github-readme-stats.vercel.app/api/pin/?username=jjfhj&repo=mvideo_project&show_owner=true&theme=buefy"></a>
     <a href="https://github.com/jjfhj/reqres_api_test"><img width=45% title="API-автотесты для Reqres с использованием библиотеки REST Assured" src="https://github-readme-stats.vercel.app/api/pin/?username=jjfhj&repo=reqres_api_test&show_owner=true&theme=buefy"></a>
+    <a href="https://github.com/jjfhj/demowebshop_api_test"><img width=45% title="Автоматизация проверок UI-взаимодействия по API для сайта магазина Demo Web Shop с использованием библиотеки REST Assured, фреймворков Selenide и Allure, Jenkins для запуска тестов; интеграцией с Allure TestOps. Также добавлены Allure Listener и кастомный шаблон для более информативного отчета и реализованы проверки JSON Schema" src="https://github-readme-stats.vercel.app/api/pin/?username=jjfhj&repo=demowebshop_api_test&show_owner=true&theme=buefy"></a>
 </p>
 
 <p align="right">
@@ -53,7 +54,7 @@
 
 <p align="center">
     <img width=45% title="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jjfhj&show_icons=true&theme=buefy">
-    <img width=42.5% title="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjfhj&theme=buefy">
+    <img width=42.5% title="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjfhj&theme=buefy&hide=freemarker">
     <img width="30%" src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif">
     <img width=57% title="Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=jjfhj&show_icons=true&theme=buefy">
 </p>
