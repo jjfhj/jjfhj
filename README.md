@@ -27,25 +27,25 @@
 </p>
 
 <p align="right">
-  <a href="https://github.com/jjfhj?tab=repositories&sort=stargazers"><img width="170" title="All repositories" src="https://custom-icon-badges.herokuapp.com/badge/-Все%20репозитории-ba79ff?style=for-the-badge&logoColor=white&logo=repo"></a>
+    <a href="https://github.com/jjfhj?tab=repositories&sort=stargazers"><img width="170" title="All repositories" src="https://custom-icon-badges.herokuapp.com/badge/-Все%20репозитории-ba79ff?style=for-the-badge&logoColor=white&logo=repo"></a>
 </p>
 
 ## <img width="4%" title="Technology stack" src="attachments/images/tools.png"> Стек технологий
 
 <p align="center">
-<img title="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-ffc933?style=for-the-badge">
-<img title="Java" src="https://img.shields.io/badge/-Java-7e06ff?logo=java&style=for-the-badge">
-<img title="Selenide" src="https://img.shields.io/badge/-Selenide-ffc933?style=for-the-badge">
-<img title="Selenoid" src="https://img.shields.io/badge/-Selenoid-7e06ff?style=for-the-badge">
-<img title="Allure Report" src="https://img.shields.io/badge/-Allure%20Report-ffc933?style=for-the-badge">
-<img title="Gradle" src="https://img.shields.io/badge/-Gradle-7e06ff?logo=gradle&style=for-the-badge">
-<img title="JUnit 5" src="https://img.shields.io/badge/-JUnit%205-ffc933?logo=junit5&style=for-the-badge">
-<img title="GitHub" src="https://img.shields.io/badge/-GitHub-7e06ff?logo=github&style=for-the-badge">
-<img title="Jenkins" src="https://img.shields.io/badge/-Jenkins-ffc933?logo=jenkins&style=for-the-badge">
-<img title="Allure TestOps" src="https://img.shields.io/badge/-Allure%20TestOps-7e06ff?style=for-the-badge">
-<img title="REST Assured" src="https://img.shields.io/badge/-REST%20Assured-ffc933?style=for-the-badge">
-<img title="Telegram" src="https://img.shields.io/badge/-Telegram-7e06ff?logo=telegram&style=for-the-badge">
-<img title="Jira" src="https://img.shields.io/badge/-Jira-ffc933?logo=jira&style=for-the-badge">
+    <img title="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-ffc933?style=for-the-badge">
+    <img title="Java" src="https://img.shields.io/badge/-Java-7e06ff?logo=java&style=for-the-badge">
+    <img title="Selenide" src="https://img.shields.io/badge/-Selenide-ffc933?style=for-the-badge">
+    <img title="Selenoid" src="https://img.shields.io/badge/-Selenoid-7e06ff?style=for-the-badge">
+    <img title="Allure Report" src="https://img.shields.io/badge/-Allure%20Report-ffc933?style=for-the-badge">
+    <img title="Gradle" src="https://img.shields.io/badge/-Gradle-7e06ff?logo=gradle&style=for-the-badge">
+    <img title="JUnit 5" src="https://img.shields.io/badge/-JUnit%205-ffc933?logo=junit5&style=for-the-badge">
+    <img title="GitHub" src="https://img.shields.io/badge/-GitHub-7e06ff?logo=github&style=for-the-badge">
+    <img title="Jenkins" src="https://img.shields.io/badge/-Jenkins-ffc933?logo=jenkins&style=for-the-badge">
+    <img title="Allure TestOps" src="https://img.shields.io/badge/-Allure%20TestOps-7e06ff?style=for-the-badge">
+    <img title="REST Assured" src="https://img.shields.io/badge/-REST%20Assured-ffc933?style=for-the-badge">
+    <img title="Telegram" src="https://img.shields.io/badge/-Telegram-7e06ff?logo=telegram&style=for-the-badge">
+    <img title="Jira" src="https://img.shields.io/badge/-Jira-ffc933?logo=jira&style=for-the-badge">
 </p>
 
 <br/>
@@ -62,9 +62,9 @@
 ## <img width="4%" title="Contacts" src="attachments/images/contacts.png"> Контакты
 
 <p align="center">
-  <a href="https://t.me/jjfhj1"><img width=4% title="Telegram" src="attachments/logo/telegram.png"></a>&nbsp;
-  <a href="https://linkedin.com/in/jjfhj"><img width=5% title="LinkedIn" src="attachments/logo/linkedin.png"></a>&nbsp;
-  <a href="https://career.habr.com/jjfhj"><img width=5% title="Habr Career" src="attachments/logo/habr.svg"></a>
+    <a href="https://t.me/jjfhj1"><img width=4% title="Telegram" src="attachments/logo/telegram.png"></a>&nbsp;
+    <a href="https://linkedin.com/in/jjfhj"><img width=5% title="LinkedIn" src="attachments/logo/linkedin.png"></a>&nbsp;
+    <a href="https://career.habr.com/jjfhj"><img width=5% title="Habr Career" src="attachments/logo/habr.svg"></a>
 </p>
 
 <br/>
