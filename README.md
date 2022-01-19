@@ -24,6 +24,7 @@
     <a href="https://github.com/jjfhj/mvideo_project"><img width=45% title="UI-автотесты для веб-приложения М.Видео с использованием фреймворков Selenide и Allure, Selenoid для запуска браузеров в контейнерах Docker и Jenkins для запуска тестов; интеграцией с Allure TestOps, Jira и Telegram Bot" src="https://github-readme-stats.vercel.app/api/pin/?username=jjfhj&repo=mvideo_project&show_owner=true&theme=buefy"></a>
     <a href="https://github.com/jjfhj/reqres_api_test"><img width=45% title="API-автотесты для Reqres с использованием библиотеки REST Assured" src="https://github-readme-stats.vercel.app/api/pin/?username=jjfhj&repo=reqres_api_test&show_owner=true&theme=buefy"></a>
     <a href="https://github.com/jjfhj/demowebshop_api_test"><img width=45% title="Автоматизация проверок UI-взаимодействия по API для сайта магазина Demo Web Shop с использованием библиотеки REST Assured, фреймворков Selenide и Allure, Jenkins для запуска тестов; интеграцией с Allure TestOps. Также добавлены Allure Listener и кастомный шаблон для более информативного отчета и реализованы проверки JSON Schema" src="https://github-readme-stats.vercel.app/api/pin/?username=jjfhj&repo=demowebshop_api_test&show_owner=true&theme=buefy"></a>
+    <a href="https://github.com/jjfhj/wikipedia_mobile_test"><img width=45% title="UI-автотесты для мобильного приложения Wikipedia с использованием фреймворков Selenide и Allure, библиотеки REST Assured для отображения видео в отчете, BrowserStack для запуска приложения на удаленном мобильном Android-устройстве и Jenkins для запуска тестов; интеграцией с Allure TestOps" src="https://github-readme-stats.vercel.app/api/pin/?username=jjfhj&repo=wikipedia_mobile_test&show_owner=true&theme=buefy"></a>
 </p>
 
 <p align="right">
@@ -44,8 +45,9 @@
     <img title="Jenkins" src="https://img.shields.io/badge/-Jenkins-ffc933?logo=jenkins&style=for-the-badge">
     <img title="Allure TestOps" src="https://img.shields.io/badge/-Allure%20TestOps-7e06ff?style=for-the-badge">
     <img title="REST Assured" src="https://img.shields.io/badge/-REST%20Assured-ffc933?style=for-the-badge">
-    <img title="Telegram" src="https://img.shields.io/badge/-Telegram-7e06ff?logo=telegram&style=for-the-badge">
-    <img title="Jira" src="https://img.shields.io/badge/-Jira-ffc933?logo=jira&style=for-the-badge">
+    <img title="BrowserStack" src="https://img.shields.io/badge/-BrowserStack-7e06ff?style=for-the-badge">
+    <img title="Telegram" src="https://img.shields.io/badge/-Telegram-ffc933?logo=telegram&style=for-the-badge">
+    <img title="Jira" src="https://img.shields.io/badge/-Jira-7e06ff?logo=jira&style=for-the-badge">
 </p>
 
 <br/>
