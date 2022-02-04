@@ -57,10 +57,10 @@
 ## <img width="4%" title="GitHub statistics" src="attachments/images/stats.png"> Статистика GitHub
 
 <p align="center">
-    <img width=45% title="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jjfhj&show_icons=true&theme=buefy">
-    <img width=42.5% title="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjfhj&theme=buefy&hide=freemarker">
+    <a href="https://github.com/jjfhj?tab=repositories&sort=stargazers"><img width=45% title="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jjfhj&show_icons=true&theme=buefy"></a>&nbsp;
+    <a href="https://github.com/jjfhj?tab=repositories&sort=stargazers"><img width=42.5% title="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjfhj&theme=buefy&hide=freemarker"></a>&nbsp;
     <img width="30%" src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif">
-    <img width=57% title="Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=jjfhj&show_icons=true&theme=buefy">
+    <a href="https://github.com/jjfhj?tab=repositories&sort=stargazers"><img width=57% title="Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=jjfhj&show_icons=true&theme=buefy"></a>
 </p>
 
 ## <img width="4%" title="Contacts" src="attachments/images/contacts.png"> Контакты
@@ -74,9 +74,9 @@
 <br/>
 
 <p align="center">
-  <img title="Have a good day :)" src="https://readme-typing-svg.herokuapp.com?color=ba79ff&font=montserrat-medium&size=20&center=true&vCenter=true&lines=%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B5%D0%B3%D0%BE+%D0%B4%D0%BD%D1%8F+:)">
+    <img title="Have a good day :)" src="https://readme-typing-svg.herokuapp.com?color=ba79ff&font=montserrat-medium&size=20&center=true&vCenter=true&lines=%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B5%D0%B3%D0%BE+%D0%B4%D0%BD%D1%8F+:)">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
+    <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
 </p>
