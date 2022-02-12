@@ -21,11 +21,11 @@
 ## <img width="4%" title="My projects" src="attachments/images/browser.png"> Мои проекты
 
 <p align="center">
-    <a href="https://github.com/jjfhj/mvideo_project"><img width=45% title="UI-автотесты для веб-приложения М.Видео с использованием фреймворков Selenide и Allure, Selenoid для запуска браузеров в контейнерах Docker и Jenkins для запуска тестов, интеграцией с Allure TestOps, Jira, Telegram Bot и электронной почтой" src="https://github-readme-stats.vercel.app/api/pin/?username=jjfhj&repo=mvideo_project&show_owner=true&theme=buefy"></a>
-    <a href="https://github.com/jjfhj/bookstore_api_test"><img width=45% title="API-автотесты для веб-приложения Book Store с использованием библиотек REST Assured, Lombok и Jackson, фреймворка Allure, Jenkins для запуска тестов, интеграцией с Allure TestOps, Jira и Telegram Bot, созданием моделей и спецификаций. Также добавлены Allure Listener и кастомный шаблон для информативного отчета, реализованы проверки JSON Schema" src="https://github-readme-stats.vercel.app/api/pin/?username=jjfhj&repo=bookstore_api_test&show_owner=true&theme=buefy"></a>
+    <a href="https://github.com/jjfhj/mvideo_project"><img width=45% title="UI-автотесты для веб-приложения М.Видео с использованием фреймворков Selenide и Allure, Selenoid для запуска браузеров в контейнерах Docker и Jenkins для запуска тестов, интеграцией с Allure TestOps, Jira, Telegram, Slack и электронной почтой" src="https://github-readme-stats.vercel.app/api/pin/?username=jjfhj&repo=mvideo_project&show_owner=true&theme=buefy"></a>
+    <a href="https://github.com/jjfhj/bookstore_api_test"><img width=45% title="API-автотесты для веб-приложения Book Store с использованием библиотек REST Assured, Lombok и Jackson, фреймворка Allure, Jenkins для запуска тестов, интеграцией с Allure TestOps, Jira и Telegram, созданием моделей и спецификаций. Также добавлены Allure Listener и кастомный шаблон для информативного отчета, реализованы проверки JSON Schema" src="https://github-readme-stats.vercel.app/api/pin/?username=jjfhj&repo=bookstore_api_test&show_owner=true&theme=buefy"></a>
     <a href="https://github.com/jjfhj/reqres_api_test"><img width=45% title="API-автотесты для веб-приложения Reqres с использованием библиотек REST Assured, Lombok и Jackson, созданием моделей и спецификаций" src="https://github-readme-stats.vercel.app/api/pin/?username=jjfhj&repo=reqres_api_test&show_owner=true&theme=buefy"></a>
     <a href="https://github.com/jjfhj/demowebshop_api_test"><img width=45% title="Автоматизация проверок UI-взаимодействия по API для сайта магазина Demo Web Shop с использованием библиотеки REST Assured, фреймворков Selenide и Allure, Jenkins для запуска тестов, интеграцией с Allure TestOps. Также добавлены Allure Listener и кастомный шаблон для информативного отчета, реализованы проверки JSON Schema" src="https://github-readme-stats.vercel.app/api/pin/?username=jjfhj&repo=demowebshop_api_test&show_owner=true&theme=buefy"></a>
-    <a href="https://github.com/jjfhj/wikipedia_mobile_test"><img width=45% title="UI-автотесты для мобильного приложения Wikipedia с использованием фреймворков Selenide, Appium и Allure, библиотеки REST Assured для отображения видео в отчете, BrowserStack, Android Studio и Selenoid для запуска приложения на соответствующих стендах, Jenkins для запуска тестов, интеграцией с Allure TestOps, Jira и Telegram Bot" src="https://github-readme-stats.vercel.app/api/pin/?username=jjfhj&repo=wikipedia_mobile_test&show_owner=true&theme=buefy"></a>
+    <a href="https://github.com/jjfhj/wikipedia_mobile_test"><img width=45% title="UI-автотесты для мобильного приложения Wikipedia с использованием фреймворков Selenide, Appium и Allure, библиотеки REST Assured для отображения видео в отчете, BrowserStack, Android Studio и Selenoid для запуска приложения на соответствующих стендах, Jenkins для запуска тестов, интеграцией с Allure TestOps, Jira и Telegram" src="https://github-readme-stats.vercel.app/api/pin/?username=jjfhj&repo=wikipedia_mobile_test&show_owner=true&theme=buefy"></a>
 </p>
 
 <p align="right">
@@ -49,8 +49,9 @@
     <img title="REST Assured" src="https://img.shields.io/badge/-REST%20Assured-7e06ff?style=for-the-badge">
     <img title="Appium" src="https://img.shields.io/badge/-Appium-ffc933?style=for-the-badge">
     <img title="BrowserStack" src="https://img.shields.io/badge/-BrowserStack-7e06ff?style=for-the-badge">
-    <img title="Telegram" src="https://img.shields.io/badge/-Telegram-ffc933?logo=telegram&style=for-the-badge">
-    <img title="Jira" src="https://img.shields.io/badge/-Jira-7e06ff?logo=jira&style=for-the-badge">
+    <img title="Slack" src="https://img.shields.io/badge/-Slack-ffc933?logo=slack&style=for-the-badge">
+    <img title="Telegram" src="https://img.shields.io/badge/-Telegram-7e06ff?logo=telegram&style=for-the-badge">
+    <img title="Jira" src="https://img.shields.io/badge/-Jira-ffc933?logo=jira&style=for-the-badge">
 </p>
 
 <br/>
