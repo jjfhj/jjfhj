@@ -65,7 +65,6 @@
 ## <img width="4%" title="Contacts" src="attachments/images/contacts.png"> Контакты
 
 <p align="center">
-    <a href="https://t.me/jjfhj1"><img width=4% title="Telegram" src="attachments/logo/telegram.png"></a>&nbsp;
     <a href="https://linkedin.com/in/jjfhj"><img width=5% title="LinkedIn" src="attachments/logo/linkedin.png"></a>&nbsp;
     <a href="https://career.habr.com/jjfhj"><img width=5% title="Habr Career" src="attachments/logo/habr.svg"></a>
 </p>
