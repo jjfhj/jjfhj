@@ -72,7 +72,7 @@
 <br/>
 
 <p align="center">
-    <img title="Have a good day :)" src="https://readme-typing-svg.herokuapp.com?color=ba79ff&font=montserrat-medium&size=20&center=true&vCenter=true&lines=Have a good day+:)">
+    <img title="Have a good day :)" src="https://readme-typing-svg.herokuapp.com?color=ba79ff&font=montserrat-medium&size=20&center=true&vCenter=true&lines=%48%61%76%65%20%61%20%67%6F%6F%64%20%64%61%79+:)">
 </p>
 
 <p align="center">
