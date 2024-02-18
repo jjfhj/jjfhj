@@ -7,10 +7,10 @@
 
 <img align="right" width="35%" src="attachments/gif/animation.gif">
 
-### _Я — QA Engineer_ <img width="3%" src="attachments/images/bug.png">
+### _I am a QA Engineer_ <img width="3%" src="attachments/images/bug.png">
 
 <p align="left">
-Имею более 4 лет опыта в тестировании web-приложений и обеспечении качества. Регулярно обучаюсь в сфере тестирования. Изучаю новые технологии и совершенствую полученные навыки.
+I have over 4 years of experience in testing web applications and quality assurance. I regularly pursue further education in the field of testing, studying new technologies and improving my skills.
 </p>
 
 <br/>
