@@ -26,7 +26,7 @@ I have over 4 years of experience in testing web applications and quality assura
 </p>
 
 <p align="right">
-    <a href="https://github.com/jjfhj?tab=repositories&sort=stargazers"><img width="170" title="All repositories" src="https://custom-icon-badges.herokuapp.com/badge/-Все%20репозитории-ba79ff?style=for-the-badge&logoColor=white&logo=repo"></a>
+    <a href="https://github.com/jjfhj?tab=repositories&sort=stargazers"><img width="170" title="All repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20repositories-ba79ff?style=for-the-badge&logoColor=white&logo=repo"></a>
 </p>
 
 ## <img width="4%" title="Technology stack" src="attachments/images/tools.png"> Technology stack
