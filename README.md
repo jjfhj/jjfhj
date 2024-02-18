@@ -3,7 +3,7 @@
     <img width="12%" src="attachments/images/bee.png">
 </p>
 
-# <img width="5%" title="About me" src="attachments/images/chat.png"> Обо мне
+# <img width="5%" title="About me" src="attachments/images/chat.png"> About me
 
 <img align="right" width="35%" src="attachments/gif/animation.gif">
 
@@ -15,7 +15,7 @@ I have over 4 years of experience in testing web applications and quality assura
 
 <br/>
 
-## <img width="4%" title="My projects" src="attachments/images/browser.png"> Мои проекты
+## <img width="4%" title="My projects" src="attachments/images/browser.png"> My projects
 
 <p align="center">
     <a href="https://github.com/jjfhj/mvideo_project"><img width=45% title="UI-автотесты для веб-приложения М.Видео с использованием фреймворков Selenide и Allure, Selenoid для запуска браузеров в контейнерах Docker, Jenkins для запуска тестов, интеграцией с Allure TestOps, Jira, Telegram, Slack и электронной почтой" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jjfhj&repo=mvideo_project&show_owner=true&theme=buefy"></a>
@@ -29,7 +29,7 @@ I have over 4 years of experience in testing web applications and quality assura
     <a href="https://github.com/jjfhj?tab=repositories&sort=stargazers"><img width="170" title="All repositories" src="https://custom-icon-badges.herokuapp.com/badge/-Все%20репозитории-ba79ff?style=for-the-badge&logoColor=white&logo=repo"></a>
 </p>
 
-## <img width="4%" title="Technology stack" src="attachments/images/tools.png"> Стек технологий
+## <img width="4%" title="Technology stack" src="attachments/images/tools.png"> Technology stack
 
 <p align="center">
     <img title="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-ffc933?style=for-the-badge">
@@ -53,7 +53,7 @@ I have over 4 years of experience in testing web applications and quality assura
 
 <br/>
 
-## <img width="4%" title="GitHub statistics" src="attachments/images/stats.png"> Статистика GitHub
+## <img width="4%" title="GitHub statistics" src="attachments/images/stats.png"> GitHub statistics
 
 <p align="center">
     <a href="https://github.com/jjfhj?tab=repositories&sort=stargazers"><img width=45% title="GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jjfhj&show_icons=true&theme=buefy"></a>&nbsp;
@@ -62,7 +62,7 @@ I have over 4 years of experience in testing web applications and quality assura
     <a href="https://github.com/jjfhj?tab=repositories&sort=stargazers"><img width=57% title="Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=jjfhj&show_icons=true&theme=buefy"></a>
 </p>
 
-## <img width="4%" title="Contacts" src="attachments/images/contacts.png"> Контакты
+## <img width="4%" title="Contacts" src="attachments/images/contacts.png"> Contacts
 
 <p align="center">
     <a href="https://linkedin.com/in/jjfhj"><img width=5% title="LinkedIn" src="attachments/logo/linkedin.png"></a>&nbsp;
