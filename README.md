@@ -10,7 +10,7 @@
 ### _I am a QA Engineer_ <img width="3%" src="attachments/images/bug.png">
 
 <p align="left">
-I have over 4 years of experience in testing web applications and quality assurance. I regularly pursue further education in the field of testing, studying new technologies and improving my skills.
+I have over 5 years of experience in testing web applications and quality assurance. I regularly pursue further education in the field of testing, studying new technologies and improving my skills.
 </p>
 
 <br/>
