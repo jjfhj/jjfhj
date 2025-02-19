@@ -57,9 +57,8 @@ I have over 5 years of experience in testing web applications and quality assura
 
 <p align="center">
     <a href="https://github.com/jjfhj?tab=repositories&sort=stargazers"><img width=45% title="GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jjfhj&show_icons=true&theme=buefy"></a>&nbsp;
-    <a href="https://github.com/jjfhj?tab=repositories&sort=stargazers"><img width=42.5% title="Top Langs" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jjfhj&theme=buefy&hide=freemarker"></a>&nbsp;
+    <a href="https://github.com/jjfhj?tab=repositories&sort=stargazers"><img width=45% title="Top Langs" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jjfhj&theme=buefy&hide=freemarker"></a>&nbsp;
     <img width="30%" src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif">
-    <a href="https://github.com/jjfhj?tab=repositories&sort=stargazers"><img width=57% title="Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=jjfhj&show_icons=true&theme=buefy"></a>
 </p>
 
 ## <img width="4%" title="Contacts" src="attachments/images/contacts.png"> Contacts
