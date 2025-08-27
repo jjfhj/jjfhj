@@ -65,7 +65,6 @@ I have over 5 years of experience in testing web applications and quality assura
 
 <p align="center">
     <a href="https://linkedin.com/in/jjfhj"><img width=5% title="LinkedIn" src="attachments/logo/linkedin.png"></a>&nbsp;
-    <a href="https://career.habr.com/jjfhj"><img width=5% title="Habr Career" src="attachments/logo/habr.svg"></a>
 </p>
 
 <br/>
