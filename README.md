@@ -6,10 +6,11 @@
 <img src="attachments/gif/animation.gif" alt="Animation" align="right" width="38%">
 <br>
 <h2>Welcome to my GitHub ✨</h2>
-<p><big><big>
+<p><big>
   Here you can find my projects, experiments and things I'm learning along the way.<br>
   I enjoy exploring new technologies and creating useful or fun ideas to share.
-</big></big></p>
+</big></p>
+<br clear="right">
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=ba79ff&font=montserrat-medium&size=22&center=true&vCenter=true&pause=1200&repeat=false&width=360&lines=Have+a+good+day+%3A%29" alt="Have a good day :)">
