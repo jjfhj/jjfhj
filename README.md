@@ -7,11 +7,11 @@
 <!-- Девушка справа, текст слева -->
 <img src="attachments/gif/animation.gif" alt="Animation" align="right" width="40%">
 
-<h3>Welcome to my GitHub ✨</h3>
-<p>
+<h2>Welcome to my GitHub ✨</h2>
+<p><big>
   Here you can find my projects, experiments and things I'm learning along the way.<br>
   I enjoy exploring new technologies and creating useful or fun ideas to share.
-</p>
+</big></p>
 
 <br clear="right">
 
