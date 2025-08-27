@@ -1,22 +1,18 @@
-<!-- Header: HELLO сверху, пчёлка под ним -->
+<!-- Header -->
 <p align="center">
   <img src="attachments/gif/header.gif" alt="Hello" width="90%"><br>
   <img src="attachments/images/bee.png" alt="Bee" width="10%">
 </p>
 
-<!-- Основной блок: текст слева, гифка справа, выравнивание по вертикали по центру -->
-<div style="display:table; width:100%;">
-  <div style="display:table-cell; vertical-align:middle; width:60%;">
-    <p style="margin:0;"><span style="font-size:1.6em; font-weight:600;">Welcome to my GitHub ✨</span></p>
-    <p style="margin-top:8px; font-size:1.15em;">
-      Here you can find my projects, experiments and things I'm learning along the way.<br>
-      I enjoy exploring new technologies and creating useful or fun ideas to share.
-    </p>
-  </div>
-  <div style="display:table-cell; vertical-align:middle; width:40%; text-align:right;">
-    <img src="attachments/gif/animation.gif" alt="Animation" style="max-width:100%;">
-  </div>
-</div>
+<!-- Девушка справа, текст слева. Один <br> подгоняет вертикаль -->
+<img src="attachments/gif/animation.gif" alt="Animation" align="right" width="38%">
+<br>
+<h3>Welcome to my GitHub ✨</h3>
+<p><big>
+  Here you can find my projects, experiments and things I'm learning along the way.<br>
+  I enjoy exploring new technologies and creating useful or fun ideas to share.
+</big></p>
+<br clear="right">
 
 <!-- Пожелание и волна -->
 <p align="center">
