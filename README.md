@@ -1,8 +1,8 @@
-<!-- HELLO + bee вместе, без таблиц -->
-<div align="center">
-  <img src="attachments/gif/header.gif" alt="Hello" height="120" style="vertical-align:middle; display:inline-block;">
-  <img src="attachments/images/bee.png" alt="Bee" height="56" style="vertical-align:middle; display:inline-block; margin-left:8px;">
-</div>
+<!-- Header: HELLO сверху, пчёлка под ним по центру -->
+<p align="center">
+  <img src="attachments/gif/header.gif" alt="Hello" height="120"><br>
+  <img src="attachments/images/bee.png" alt="Bee" height="56">
+</p>
 
 <!-- Девушка справа, текст слева (обтекание) -->
 <img src="attachments/gif/animation.gif" alt="Animation" align="right" width="260">
