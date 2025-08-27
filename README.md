@@ -14,10 +14,13 @@
     width="50%">
 </div>
 
-<font size="4">
+<p>
   Here you can find my projects, experiments and things I'm learning along the way.<br>
-  I enjoy exploring new technologies and creating useful or fun ideas to share.
-</font>
+  I enjoy exploring new technologies and creating useful or fun ideas to share.<br><br>
+  ✨ Simple examples<br>
+  🧪 Experiments<br>
+  📎 Little things I tried
+</p>
 
 <br clear="right">
 
