@@ -1,20 +1,16 @@
-<!-- Header -->
 <p align="center">
   <img src="attachments/gif/header.gif" alt="Hello" width="90%"><br>
   <img src="attachments/images/bee.png" alt="Bee" width="10%">
 </p>
 
-<!-- Девушка справа, текст слева. Один <br> подгоняет вертикаль -->
 <img src="attachments/gif/animation.gif" alt="Animation" align="right" width="38%">
 <br>
-<h3>Welcome to my GitHub ✨</h3>
-<p><big>
+<h2>Welcome to my GitHub ✨</h2>
+<p><big><big>
   Here you can find my projects, experiments and things I'm learning along the way.<br>
   I enjoy exploring new technologies and creating useful or fun ideas to share.
-</big></p>
-<br clear="right">
+</big></big></p>
 
-<!-- Пожелание и волна -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=ba79ff&font=montserrat-medium&size=22&center=true&vCenter=true&pause=1200&repeat=false&width=360&lines=Have+a+good+day+%3A%29" alt="Have a good day :)">
 </p>
