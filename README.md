@@ -1,11 +1,11 @@
 <!-- Header: HELLO сверху, пчёлка под ним -->
 <p align="center">
-  <img src="attachments/gif/header.gif" alt="Hello" width="100%"><br>
-  <img src="attachments/images/bee.png" alt="Bee" width="15%">
+  <img src="attachments/gif/header.gif" alt="Hello" width="90%"><br>
+  <img src="attachments/images/bee.png" alt="Bee" width="10%">
 </p>
 
 <!-- Девушка справа, текст слева -->
-<img src="attachments/gif/animation.gif" alt="Animation" align="right" width="50%">
+<img src="attachments/gif/animation.gif" alt="Animation" align="right" width="40%">
 
 <h3>Welcome to my GitHub ✨</h3>
 <p>
