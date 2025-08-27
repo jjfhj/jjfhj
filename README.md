@@ -22,9 +22,9 @@
 </p>
 
 <blockquote>
-<b>Simple examples</b> ✨<br>
-<b>Experiments</b> 🧪<br>
-<b>Little things I tried</b> 📎
+Simple examples ✨<br>
+Experiments 🧪<br>
+Little things I tried 📎
 </blockquote>
 
 <br clear="right">
