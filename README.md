@@ -53,21 +53,9 @@ I have over 5 years of experience in testing web applications and quality assura
 
 <br/>
 
-## <img width="4%" title="GitHub statistics" src="attachments/images/stats.png"> GitHub statistics
-
 <p align="center">
-    <a href="https://github.com/jjfhj?tab=repositories&sort=stargazers"><img width=45% title="GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jjfhj&show_icons=true&theme=buefy"></a>&nbsp;
-    <a href="https://github.com/jjfhj?tab=repositories&sort=stargazers"><img width=45% title="Top Langs" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jjfhj&theme=buefy&hide=freemarker"></a>&nbsp;
     <img width="30%" src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif">
 </p>
-
-## <img width="4%" title="Contacts" src="attachments/images/contacts.png"> Contacts
-
-<p align="center">
-    <a href="https://linkedin.com/in/jjfhj"><img width=5% title="LinkedIn" src="attachments/logo/linkedin.png"></a>&nbsp;
-</p>
-
-<br/>
 
 <p align="center">
     <img title="Have a good day :)" src="https://readme-typing-svg.herokuapp.com?color=ba79ff&font=montserrat-medium&size=20&center=true&vCenter=true&lines=%48%61%76%65%20%61%20%67%6F%6F%64%20%64%61%79+:)">
