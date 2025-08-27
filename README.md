@@ -7,17 +7,17 @@
 
 <br>
 
-<p align="left">
+<div align="left">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=montserrat-medium&size=30&color=ba79ff&duration=1&pause=999999&repeat=false&width=520&lines=Welcome+to+my+GitHub+%E2%9C%A8"
     alt="Welcome to my GitHub ✨"
-    width="58%">
-</p>
+    width="50%">
+</div>
 
-<h3>
+<p>
   Here you can find my projects, experiments and things I'm learning along the way.<br>
   I enjoy exploring new technologies and creating useful or fun ideas to share.
-</h3>
+</p>
 
 <br clear="right">
 
