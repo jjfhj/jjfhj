@@ -29,6 +29,8 @@ Little things I tried 📎
 
 <br clear="right">
 
+<p align="center">✦ ✦ ✦</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=ba79ff&font=montserrat-medium&size=20&center=true&vCenter=true&lines=Have+a+good+day+:)" alt="Have a good day :)">
 </p>
