@@ -14,10 +14,10 @@
     width="58%">
 </p>
 
-<h4>
+<h3>
   Here you can find my projects, experiments and things I'm learning along the way.<br>
   I enjoy exploring new technologies and creating useful or fun ideas to share.
-</h4>
+</h3>
 
 <br clear="right">
 
