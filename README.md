@@ -15,14 +15,16 @@
 </div>
 
 <p>
+  <b>
   Here you can find my projects, experiments and things I'm learning along the way.<br>
   I enjoy exploring new technologies and creating useful or fun ideas to share.
+  </b>
 </p>
 
 <blockquote>
-Simple examples ✨<br>
-Experiments 🧪<br>
-Little things I tried 📎
+<b>Simple examples</b> ✨<br>
+<b>Experiments</b> 🧪<br>
+<b>Little things I tried</b> 📎
 </blockquote>
 
 <br clear="right">
