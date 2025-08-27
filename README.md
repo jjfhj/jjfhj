@@ -5,11 +5,12 @@
 
 <img src="attachments/gif/animation.gif" alt="Animation" align="right" width="38%">
 <br>
-<h2>Welcome to my GitHub ✨</h2>
-<p><big>
+<h3><big><big>Welcome to my GitHub ✨</big></big></h3>
+<p><big><big>
   Here you can find my projects, experiments and things I'm learning along the way.<br>
   I enjoy exploring new technologies and creating useful or fun ideas to share.
-</big></p>
+</big></big></p>
+
 <br clear="right">
 
 <p align="center">
